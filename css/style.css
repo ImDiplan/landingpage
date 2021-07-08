@@ -1224,6 +1224,18 @@ div#preloader {
 
 /*----------------------------------------*/
 
+.btnS{
+  background-color: #000 !important;
+  border: 1px solid #000 !important;
+  color: #fff;
+}
+
+.btnS:hover{
+  background-color: transparent !important;
+  border: 1px solid #000 !important;
+  color: #000 !important;
+}
+
 /* 11. Pricing Area
 /*----------------------------------------*/
 

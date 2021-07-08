@@ -2251,7 +2251,12 @@ div#preloader {
   padding: 10px;
   position: relative;
 }
-
+.entry{
+  text-align: justify;
+  padding: 0px;
+  margin: 10px;
+  font-size: 16px;
+}
 .author-avatar {
   display: inline-block;
   float: left;
